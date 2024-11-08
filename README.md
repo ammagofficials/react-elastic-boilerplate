@@ -54,7 +54,7 @@ my-app/
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/ammagofficials/react-elastic-boilerplate.git](https://github.com/ammagofficials/react-elastic-boilerplate.git)
+   git clone https://github.com/ammagofficials/react-elastic-boilerplate.git
    cd your-repo-name
    ```
 
