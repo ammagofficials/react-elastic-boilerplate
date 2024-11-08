@@ -1,7 +1,3 @@
-Here’s a `README.md` for your project with a description that includes SEO-friendly terms, concise explanations, and clear instructions.
-
----
-
 # Node.js Express JWT Authentication API with Elasticsearch Integration
 
 Welcome to the **Node.js Express JWT Authentication API** project! This application serves as a boilerplate for building secure, JWT-based authentication systems with Node.js and Express, leveraging Elasticsearch for data storage. This setup includes common patterns like structured response handling, a central context for Elasticsearch operations, and modular organization for scalability.
