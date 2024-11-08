@@ -55,7 +55,7 @@ my-app/
 1. Clone this repository:
    ```bash
    git clone https://github.com/ammagofficials/react-elastic-boilerplate.git
-   cd your-repo-name
+   cd my-app
    ```
 
 2. Install dependencies:
