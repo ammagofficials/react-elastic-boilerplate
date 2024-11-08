@@ -10,7 +10,7 @@ Welcome to the **Node.js Express JWT Authentication API** project! This applicat
 - **Auto-generated Unique IDs**: User IDs generated automatically using UUIDs.
 - **Structured Response Handling**: Consistent success and error responses via a `ResponseHandler` class.
 - **Configurable Settings**: Easy-to-configure environment variables.
-- **SEO-Friendly REST API**: Clean and standardized RESTful routes for optimal API structure.
+- **Optimized REST API Structure**: Clean and standardized RESTful routes for efficient access.
 
 ## Project Structure
 
@@ -54,8 +54,8 @@ my-app/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/ammagofficials/react-elastic-boilerplate.git
+   cd my-app
    ```
 
 2. Install dependencies:
@@ -93,14 +93,6 @@ my-app/
 - **Create User** - Automatically registers users with a UUID.
 - **Search User by ID** - Retrieve user details from Elasticsearch.
 - **Delete User** - Remove user data from Elasticsearch.
-
-## SEO-Friendly Keywords for REST API
-
-- **JWT Authentication API**
-- **Node.js REST API with Elasticsearch**
-- **Secure Token-Based Authentication**
-- **Express.js API with JWT Security**
-- **Scalable Node.js REST API Boilerplate**
 
 ## Code Highlights
 
