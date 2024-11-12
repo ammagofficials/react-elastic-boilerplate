@@ -8,7 +8,7 @@ class ElasticsearchContext {
 
   async getIndexName(entity) {
     const modelName = entity.constructor.name; // Automatically get model name
-    return `${process.env.ELASTICSEARCH_ALIES}-${modelName.toLowerCase()}`;
+    return `${process.env.ELASTICSEARCH_ALIES}_${modelName.toLowerCase()}`;
   }
 
   async create(entity) {
